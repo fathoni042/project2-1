@@ -6,3 +6,4 @@ umur : 17
 No Absen : 02
 Agama : Islam
 hobi : Mancing Perkoro
+nama  : fathoni
