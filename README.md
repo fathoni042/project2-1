@@ -7,3 +7,4 @@ No Absen : 02
 Agama : Islam
 hobi : Mancing Perkoro
 nama  : fathoni
+kurnia akbar
