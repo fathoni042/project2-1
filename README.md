@@ -5,4 +5,4 @@ Kelas : XII TKJ 3
 umur : 17
 No Absen : 02
 Agama : Islam
-hobi : mati
+hobi : Mancing Perkoro
